@@ -1,8 +1,8 @@
 # April ✔
 
-April is open source status checker based on Lemon 🍋.
+April was ment to be open source status checker based on Lemon 🍋.
  
-Version: 0.0.1
+Now its personal managment https://github.com/TENMAJKL/april
 
 # Installation 🔌
 
